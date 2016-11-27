@@ -2,13 +2,13 @@
 
 Full Stack Web Developer based in London. Moving to Nazareth to set up a coding school with Founders and Coders C.I.C. in the new year. Passionate about teaching and learning.
 
-I will be based in London until December, and in the new year will be looking for remote work and jobs based in Israel. I can work as an independent freelancer or can build and lead small focused teams of Founders and Coders graduates, as I have in London and will be doing in Israel.
+I will be based in London until December, and in the new year will be looking for remote work and jobs based in Israel. I can work as an independent freelancer or can build and lead small focused teams of Founders and Coders graduates.
 
 ## Employment
 ### Full Stack Web Developer | DWYL
 ###### January 2016 - Current. London, UK.
 
-I am currently the lead developer building a stress testing tool for financial regulators. It handles large amounts of data in a complex data model. The server is built with Node, Hapi and PostgresQL. The client is built with React, Redux and Immutable.js, SASS and ES6.
+Lead developer. Our product is a stress testing tool for financial regulators. It handles large amounts of data in a complex data model. The server is built with Node, Hapi and PostgreSQL. The client is built with React, Redux, Immutable.js, SASS and ES6.
 
 ### Full Stack Web Developer, Mentor | Founders and Coders
 ###### September 2015 - Current. London, UK.
