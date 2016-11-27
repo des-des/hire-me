@@ -1,0 +1,23 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Full Stack Web Developer based in London. Moving to Nazareth to set up a coding school with Founders and Coders C.I.C. in the new year. Passionate about teaching and learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/des-des/hire-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/des-des/hire-me/issues"
+  },
+  "homepage": "https://github.com/des-des/hire-me#readme",
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  }
+}
