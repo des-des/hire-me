@@ -1,0 +1,61 @@
+* {
+  /*padding: 0;
+  margin: 0;*/
+}
+
+html, body, table, tr, td {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  line-height: 1.2;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+p {
+  margin: .4em 0 .4em 0;
+}
+
+body {
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 18px
+}
+
+h2 {
+  font-size: 15px;
+  margin-top: 1em;
+}
+
+h3 {
+  margin-top: .5em;
+  font-size: 14px
+}
+
+h4 {
+  font-size: 13px
+}
+
+h5 {
+  font-size: 12px
+}
+
+h6 {
+  font-size: 12px
+}
+
+h3:nth-child(1) {
+  display: block;
+  page-break-before: always;
+  break-before: always;
+}
